@@ -16,7 +16,7 @@ http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/59
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/131
 
-#EXTINF: -1, tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png", HBO Extreme
+#EXTINF: -1, tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png", HBO Extreme
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/132
 
@@ -35,5 +35,28 @@ http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/285
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/22/73/bb/2273bb6b9d4b5451ab2c170fbbe374d3.png", Coraje el Perro Cobarde
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/286
+
+#EXTINF:-1, tvg-logo="", 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/
+
+#EXTINF:-1, tvg-logo="", 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/
+
+#EXTINF:-1, tvg-logo="", 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/
+
+#EXTINF:-1, tvg-logo="", 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/
+
+#EXTINF:-1, tvg-logo="", 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/
+
+
+
 
 
