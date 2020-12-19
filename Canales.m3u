@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png", Los Simpsom
-#EXTVLCOPT:http-user-agent=tepro
-http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/276
-
-#EXTINF:-1, tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png", Dinosaurios 
-#EXTVLCOPT:http-user-agent=tepro
-http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/285
-
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/64
@@ -24,10 +16,24 @@ http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/59
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/131
 
-#EXTINF: -1, tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/logos/grey-hboxtreme.png", HBO Extreme
+#EXTINF: -1, tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png", HBO Extreme
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/132
 
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/62
+
+#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png", Los Simpsom
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/276
+
+#EXTINF:-1, tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png", Dinosaurios 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/285
+
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/22/73/bb/2273bb6b9d4b5451ab2c170fbbe374d3.png", Coraje el Perro Cobarde
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/286
+
+
