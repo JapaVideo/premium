@@ -1,8 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, Los Simpsom
+#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png", Los Simpsom
 #EXTVLCOPT:http-user-agent=tepro
 http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/276
+
+#EXTINF:-1, tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png", Dinosaurios 
+#EXTVLCOPT:http-user-agent=tepro
+http://dominiopersonal.xyz:25464/tepro/JwTNzXwx8f/285
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
