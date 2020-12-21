@@ -52,7 +52,7 @@ http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/250
 #EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
 http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/209
 
-#EXTINF:-1, tvg-logo="https://www.casaytextil.com/server/Portal_0001578/img/manufacturers/manufacturer_31623.png", La Pantera Rosa
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1280px-International_Pok%C3%A9mon_logo.svg.png", Pokemon
 #EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
 http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/217
 
