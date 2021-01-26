@@ -1,60 +1,38 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
-#EXTVLCOPT:http-user-agent=OttPlayer/6.0.8 (Linux;Android 9) ExoPlayerLib/2.12.0
-http://francotv.ml:25461/ottplayer/WnzIY3NtUWCNCYFHDFHDF/172
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/601.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
-#EXTVLCOPT:http-user-agent=OttPlayer/6.0.8 (Linux;Android 9) ExoPlayerLib/2.12.0
-http://francotv.ml:25461/ottplayer/WnzIY3NtUWCNCYFHDFHDF/173
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/603.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417664-8c.png", HBO Family
-#EXTVLCOPT:http-user-agent=OttPlayer/6.0.8 (Linux;Android 9) ExoPlayerLib/2.12.0
-http://francotv.ml:25461/ottplayer/WnzIY3NtUWCNCYFHDFHDF/175
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/602.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
-#EXTVLCOPT:http-user-agent=OttPlayer/6.0.8 (Linux;Android 9) ExoPlayerLib/2.12.0
-http://francotv.ml:25461/ottplayer/WnzIY3NtUWCNCYFHDFHDF/174
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/600.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/118
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/593.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO Signature
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/116
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/119
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/599.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/117
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/594.m3u8
 
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/117
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/593.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/22/73/bb/2273bb6b9d4b5451ab2c170fbbe374d3.png", Coraje
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/237
 
-#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png", Los Simpson
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/262
-
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/1a/8b/b9/1a8bb9df1d97a030cd0f7f2c21f9646d.png", Coyote y Correcaminos
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/250
-
-#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/59d624853752880e93e16e94.png", Los Picapiedras
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/209
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1280px-International_Pok%C3%A9mon_logo.svg.png", Pokemon
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/217
 
 
 
